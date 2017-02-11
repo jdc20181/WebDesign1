@@ -10,3 +10,15 @@ You can see the material [here](https://jdc20181.github.io/WebDesign1/)
 The course only required to cover 1900-1999 so anything of modern age e.g.  Iphone's isn't really mentioned. 
 
 Bugs, suggestions, typos etc can be reported/sent via Github issues. 
+
+The Site demonstrates:
+
+ - Web Safe Colors
+ 
+ - Responsive Design 
+ 
+ - Simple UI (But stylish!)
+ 
+ - How to present information 
+  
+ - How information can be presented on a website. 
