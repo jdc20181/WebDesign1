@@ -43,3 +43,7 @@ li a:hover:not(.active) {
     background: white;
     padding: 10px;
 }
+@media screen and (max-width: 600px){
+    ul.topnav ul.right, 
+    ul.topnav li {float: none;}
+}
